@@ -22,10 +22,10 @@ React Tutorial that was taught on 02/13/2020
 
 * **Backend**
   * **Sequelize** - A JavaScript ORM where SQL commands are written in JavaScript Object Notation
-  * ****
   * **Hibernate** - The Java ORM. ORM's makes SQL queries and code much easier
   * **Spring Boot** - A Java web framework that can accomplish what we covered in this app
   * **MongoDB** - NoSQL alternative to MariaDb, MySQL, PostGres, and other relational databases
+  
 * **Frontend**
   * **React-Router** - Allows a React app to decide what components to show given a URL.
   * **Redux** - State Manager. When your application possesses a sizable amount of components, redux eases state relationship complexity by being a globa state holder and manager. 
