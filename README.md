@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# MThree-React-Frontend
+
+React Tutorial that was taught on 02/13/2020
+
+## How to run
+
+* Before starting the frontend application, the backend server must be launched first:
+  * https://github.com/AzuResolute/MThree-Node-Backend/
+* Write "npm install" into the terminal to install all dependencies
+* Launch the app!
+  * On your terminal, run npm start
 
 ## Available Scripts
 
