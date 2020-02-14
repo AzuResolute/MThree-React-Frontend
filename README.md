@@ -30,4 +30,4 @@ React Tutorial that was taught on 02/13/2020
   * **React-Router** - Allows a React app to decide what components to show given a URL.
   * **Redux** - State Manager. When your application possesses a sizable amount of components, redux eases state relationship complexity by being a globa state holder and manager. 
   * **Studying more JavaScript** - A lot of what you can accomplish in React uses advanced JavaScript, such as the Array.map.
-  * **Studying TypeScript** - JavaScript but with types and interfaces. Use this to make creating web app frameworks such sa React easier to debug.
+  * **Studying TypeScript** - JavaScript but with types and interfaces. Use this to make creating web app frameworks such as React easier to debug.
